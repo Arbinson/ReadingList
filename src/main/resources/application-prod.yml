@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  context-path: /readingList
+  
+spring:
+  datasource:
+    data-username: root
+    data-password: 19920315
+    url: jdbc:mysql://127.0.0.1:3306/dbgirl
+    driver-class-name: com.mysql.jdbc.Driver
