@@ -9,5 +9,6 @@ public class ReadingListApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ReadingListApplication.class, args);
 		System.out.println("right....");
+		System.out.println("hot fix....");
 	}
 }
